@@ -1,0 +1,7 @@
+certifi==2018.10.15
+chardet==3.0.4
+emoji==0.5.1
+idna==2.7
+requests==2.20.0
+urllib3==1.24
+virtualenv==16.1.0
